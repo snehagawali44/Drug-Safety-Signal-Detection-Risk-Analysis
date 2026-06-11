@@ -40,5 +40,5 @@ Using Python, SQL, and Power BI, the project explores adverse drug reactions (AD
 
 Python | SQL | Power BI | Data Cleaning | EDA | Pharmacovigilance | Drug Safety Analytics | Dashboard Development
 
-# **Note:** The original dataset and Power BI (.pbix) file are not included in this repository due to GitHub file size limitations. Project documentation, Python analysis, SQL queries, and dashboard screenshots are provided to showcase the complete workflow and results.
+# Note:The original dataset and Power BI (.pbix) file are not included in this repository due to GitHub file size limitations. Project documentation, Python analysis, SQL queries, and dashboard screenshots are provided to showcase the complete workflow and results.
 
